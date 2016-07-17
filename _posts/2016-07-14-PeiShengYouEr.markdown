@@ -19,3 +19,6 @@ tags: [阅读,人生]
 
 ### 爱心树
 苹果树
+### 扫我关注公众号
+![二维码](http://7o52hu.com1.z0.glb.clouddn.com/mp-liuye.jpg)
+
